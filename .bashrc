@@ -8,7 +8,7 @@ export LS_COLORS='di=34:fi=0:ln=35:pi=33:so=32:bd=46:cd=43:ex=31'
 alias ll='ls -alF'
 alias la='ls -A'
 alias ..='cd ..'
-alias cls='clear'
+alias clr='clear'
 
 # Enable color for grep
 alias grep='grep --color=auto'
