@@ -1,0 +1,7 @@
+[DEBUG] Checking dependencies
+[ERROR] Missing config file
+[FAILURE] Connection timeout
+[INFO-spock] App started
+[INFO-spock] Attempting to recover
+[INFO-spock] Shutdown complete
+[WARN] Using default settings
